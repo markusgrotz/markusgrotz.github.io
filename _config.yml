@@ -11,8 +11,8 @@ author:
   name: "Markus Grotz"
   avatar: "/assets/images/markus.jpg"
   bio: "Markus is a PostDoc and part of the research team of Professor Tamim Asfour, High Performance Humanoid Technologies Lab (H2T) at the Institute of Anthropomatics and Robotics, Karlsruhe Institute of Technology (KIT)"
-  location : "Karlsruhe, Germany"
-    links:
+  location: "Karlsruhe, Germany"
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Markus Grotz <given_name> <dot> <family_name> <at> kit <dot> edu"
