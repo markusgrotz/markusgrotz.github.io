@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /about/
 title:  "Hi"
 ---
