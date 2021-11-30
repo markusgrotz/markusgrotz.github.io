@@ -30,6 +30,8 @@ author:
 footer:
   links:
 
+atom_feed:
+  hide: true
 
 
 encoding: "utf-8"
