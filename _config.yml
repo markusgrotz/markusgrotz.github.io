@@ -8,15 +8,25 @@ teaser: "/assets/images/teaser.jpg"
 author:
   name: "Markus Grotz"
   avatar: "/assets/images/markus.jpg"
-  bio: "Markus is a PostDoc and part of the research team of Professor Tamim Asfour, High Performance Humanoid Technologies Lab (H2T) at the Institute of Anthropomatics and Robotics, Karlsruhe Institute of Technology (KIT)"
-  location: "Karlsruhe, Germany"
+  bio: "Markus is a Postdoctoral Scholar with Dieter Fox and the research project Robotic Manipulation in Densely Packed Containers"
+  location: "Seattle, USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:Markus Grotz <given_name> <dot> <family_name> <at> kit <dot> edu"
-    - label: "Website"
+      url: "mailto:Markus Grotz <family_name> <at> uw <dot> edu"
+
+    - label: "Project Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://robotic-manipulation.sciencehub.uw.edu"
+
+    - label: "RSELab Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rse-lab.cs.washington.edu/people/"
+
+    - label: "H2T Website"
       icon: "fas fa-fw fa-link"
       url: "https://h2t.anthropomatik.kit.edu/21_918.php"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/markus-grotz/"
@@ -26,6 +36,10 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/markusgrotz"
+
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ywTBxOkAAAAJ&hl=de&oi=ao"
 
 footer:
   links:
