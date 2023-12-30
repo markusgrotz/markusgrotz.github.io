@@ -36,9 +36,8 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/markusgrotz"
-
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ywTBxOkAAAAJ&hl=de&oi=ao"
 
 footer:
