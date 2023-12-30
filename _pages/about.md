@@ -15,7 +15,7 @@ in robotics and AI.  What excites me most about robotics is its
 interdisciplinary nature, integrating elements from computer science,
 engineering, systems integration, and more to solve complex problems.
 
-Currently, I am deeply involved in the (Robotic Manipulation in Densely Packed Containers)[https://robotic-manipulation.sciencehub.uw.edu/] project. 
+Currently, I am deeply involved in the [Robotic Manipulation in Densely Packed Containers](https://robotic-manipulation.sciencehub.uw.edu/) project. 
 The project deals with automation for industrial warehouses with dense packing,
 which  makes objects more difficult to distinguish visually and requires
 manipulation to be sensitive to the arrangement of objects in the shelf itself.
@@ -26,5 +26,5 @@ When I'm not immersed  in robotics, I enjoy sailing, climbing, and dancing.
 These activities help me maintain a balanced and creative perspective.
 
 I'm always open to new collaborations and discussions about the future of
-robotics and AI. Feel free to (reach out to me)[mailto:<family_name><at>uw<dot>edu]  to explore potential projects or simply to
+robotics and AI. Feel free to [reach out to me](mailto:<family_name><at>uw<dot>edu)  to explore potential projects or simply to
 exchange ideas about the fascinating world of robotics.
