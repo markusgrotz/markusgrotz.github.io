@@ -4,7 +4,7 @@ permalink: /about/
 title:  "Hello World!"
 ---
 
-My name is Markus, a passionate Postdoctoral Researcher in in Dieter's lab at
+My name is Markus, a passionate Postdoctoral Researcher in Dieter's lab at
 the University of Washington (UW).  My academic journey began at the Karlsruhe
 Institute of Technology (KIT), where I worked alongside Tamim and his team,
 diving into the fascinating world of advanced humanoid robots.
@@ -26,5 +26,5 @@ When I'm not immersed  in robotics, I enjoy sailing, climbing, and dancing.
 These activities help me maintain a balanced and creative perspective.
 
 I'm always open to new collaborations and discussions about the future of
-robotics and AI. Feel free to [reach out to me](mailto:<family_name><at>uw<dot>edu)  to explore potential projects or simply to
+robotics and AI. Feel free to [reach out to me](mailto:<family_name> <at> uw <dot> edu)  to explore potential projects or simply to
 exchange ideas about the fascinating world of robotics.
