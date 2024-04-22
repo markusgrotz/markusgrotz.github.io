@@ -7,6 +7,13 @@ title:  "Research"
 
 My publications:
 
+
+Yi Li and Muru Zhang and Markus Grotz and Kaichun Mo and Dieter Fox.  STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots, Conference on Robot Learning (CoRL) 2023
+
+Boling Yang and Soofiyan Layakalli Atar and Markus Grotz and Byron Boots and Joshua R. Smith.  DYNAMO-GRASP: DYNAMics-aware Optimization for GRASP Point Detection in Suction Grippers. Conference on Robot Learning (CoRL) 2023
+
+Markus Grotz, Soofiyan Atar, Yi Li, Paolo Torrado, Boling Yang, Nick Walker, Michael Murray, Maya Cakmak and Joshua R. Smith  Towards robustly picking unseen objects from densely packed shelves Workshop on Perception and Manipulation Challenges for Warehouse Automation - Robotics Science and Systems (RSS) 2023
+
 Markus Grotz, Active Vision for Scene Understanding, Dissertation, Karlsruhe, 2020
 
 Markus Grotz, David Sippel, and Tamim Asfour. Active vision for extraction of physically plausible support relations. In IEEE/RAS International Conference on Humanoid Robots (Humanoids), pages 463–469, 2019.
@@ -14,6 +21,9 @@ Markus Grotz, David Sippel, and Tamim Asfour. Active vision for extraction of ph
 Markus Grotz, Timothee Habra, Renaud Ronsse, and Tamim Asfour. Autonomous view selection and gaze stabilization for humanoid robots. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 1427–1434, 2017.
 
 Markus Grotz, Peter Kaiser, Eren Erdal Aksoy, Fabian Paus, and Tamim Asfour. Graph-based visual semantic perception for humanoid robots. In IEEE/RAS International Conference on Humanoid Robots (Humanoids), pages 869–875, 2017.
+
+
+
 
 Raphael Grimm, Markus Grotz, Simon Ottenhaus, and Tamim Asfour. Vision-Based Robotic Pushing and Grasping for Stone Sample Collection under Computing Resource Constraints, IEEE International Conference on Robotics and Automation (ICRA), May, 2021
 
