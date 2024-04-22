@@ -66,6 +66,13 @@ plugins:
 
 defaults:
   - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
       path: "about"
       type: pages
     values:
